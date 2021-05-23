@@ -9,11 +9,11 @@ var rand;
 
 
 function preload(){
-    blueImg=loadImage("Images/blueSquare.png");
-    greenImg=loadImage("Images/greenSquare.png");
-    redImg=loadImage("Images/redSquare.png");
-    yellowImg=loadImage("Images/yellowSquare.jpg");
-    startImg=loadImage("Images/start2.jpg");
+    blueImg=loadImage("blueSquare.png");
+    greenImg=loadImage("greenSquare.png");
+    redImg=loadImage("redSquare.png");
+    yellowImg=loadImage("yellowSquare.jpg");
+    startImg=loadImage("start2.jpg");
   }
 
 
